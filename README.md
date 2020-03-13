@@ -3,6 +3,11 @@ Performing analysis on Kickstarter data to uncover trends
 
 
 ### Challenge
+
+![Outcomes based on Goals](https://github.com/Nikhita09/Kickstarter-analysis/blob/master/Outcomes%20based%20on%20Goals.png)
+
+![Outcomes based on Launch Date](https://github.com/Nikhita09/Kickstarter-analysis/blob/master/Outcomes%20based%20on%20Launch%20Date.png)
+
 CONCLUSIONS:
 
 * Looking at "Outcomes based on Goals”, chances of success increases as the goal amount increases till 30000, however the absence of a pattern after 30000 indicate that chance of success does not depend on goal amount alone for the category “theatre”.
